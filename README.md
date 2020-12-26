@@ -64,3 +64,29 @@
 
 **Link to work:** [Day-5_work](https://drive.google.com/file/d/1RpXkAS8dDBYPltin93rFB3rEkaalBpom/view?usp=sharing)
 <<========================================================================>>
+### Day 6: December 25, 2020 
+
+**Week schedule**: Udemy Course Machine Learning A-Z™: Hands-On Python & R In Data Science\
+**Today's topic**: Classification(part-2) 
+
+**Thoughts:** I have Learnt about Classification and its applications and also types of Classification.Some of its types are,\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Naive Bayes classification\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Decision Tree classification\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Random Forest classification\
+
+
+**Link to work:** [Day-6_work](https://drive.google.com/file/d/1vCHG2ilLWT5JQUM3YqSJOE50cGblDSSq/view?usp=sharing)
+<<========================================================================>>
+### Day 7: December 26, 2020 
+
+**Week schedule**: Udemy Course Machine Learning A-Z™: Hands-On Python & R In Data Science\
+**Today's topic**: Classification(part-2) 
+
+**Thoughts:** I have Learnt about Unsupervised Learning.Its algo's are clustering and association.\
+->Here we learnt about Clustering and it types.\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->K-Means Clustering\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Hierarchical Clustering
+
+
+**Link to work:** [Day-7_work](https://drive.google.com/file/d/1WmMTalKhDSG2Ri98qMvnjfyoy6OmpkJL/view?usp=sharing)
+<<========================================================================>>
