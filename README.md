@@ -21,7 +21,8 @@
 **Week schedule**: Udemy Course Machine Learning A-Z™: Hands-On Python & R In Data Science\
 **Today's topic**: Regression(part-1) 
 
-**Thoughts:** I have Learnt about Regression and its applications and also types of Regression.Some of its types are,\
+**Thoughts:** I have learnt about Supervised Learning ,and its types are Regression and Classification.\
+->Here we Learnt about Regression and its applications and also types of Regression.Some of its types are,\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Simple linear Regression\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Multiple Linear Regression
 
@@ -69,7 +70,7 @@
 **Week schedule**: Udemy Course Machine Learning A-Z™: Hands-On Python & R In Data Science\
 **Today's topic**: Classification(part-2) 
 
-**Thoughts:** I have Learnt about Classification and its applications and also types of Classification.Some of its types are,\
+**Thoughts:** Continued types of Classification models,\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Naive Bayes classification\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Decision Tree classification\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Random Forest classification
@@ -80,7 +81,7 @@
 ### Day 7: December 26, 2020 
 
 **Week schedule**: Udemy Course Machine Learning A-Z™: Hands-On Python & R In Data Science\
-**Today's topic**: Classification(part-2) 
+**Today's topic**: Clustering
 
 **Thoughts:** I have Learnt about Unsupervised Learning.Its algo's are clustering and association.\
 ->Here we learnt about Clustering and it types.\
