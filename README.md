@@ -72,7 +72,7 @@
 **Thoughts:** I have Learnt about Classification and its applications and also types of Classification.Some of its types are,\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Naive Bayes classification\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Decision Tree classification\
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Random Forest classification\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Random Forest classification
 
 
 **Link to work:** [Day-6_work](https://drive.google.com/file/d/1vCHG2ilLWT5JQUM3YqSJOE50cGblDSSq/view?usp=sharing)
