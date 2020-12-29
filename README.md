@@ -91,3 +91,34 @@
 
 **Link to work:** [Day-7_work](https://drive.google.com/file/d/1WmMTalKhDSG2Ri98qMvnjfyoy6OmpkJL/view?usp=sharing)
 <<========================================================================>>
+### Day 8: December 27, 2020 
+
+**Week schedule**: Udemy Course Machine Learning A-Z™: Hands-On Python & R In Data Science\
+**Today's topic**: Associative Rule Learning 
+
+**Thoughts:** I have Learnt about Associative Rule Learning and its applications and also algo's,\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Apriori\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Eclat
+
+**Link to work:** [Day-8_work](https://drive.google.com/file/d/1-UoAZa9exwDuOhozlj8NiE8vcQzbS3RM/view?usp=sharing)
+<<========================================================================>>
+### Day 9: December 28, 2020 
+
+**Week schedule**: Udemy Course Machine Learning A-Z™: Hands-On Python & R In Data Science\
+**Today's topic**: Reinforcement Learning(Part-1)
+
+**Thoughts:** I have learnt about Reinforcement learning and its applications and also its algo's\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Upper Confidence Bound(UCB)
+
+**Link to work:** [Day-9_work](https://drive.google.com/file/d/1NtoKAf3VaksF1bEA_CBRHXUwH5Rg1uqe/view?usp=sharing)
+<<========================================================================>>
+### Day 10: December 29, 2020 
+
+**Week schedule**: Udemy Course Machine Learning A-Z™: Hands-On Python & R In Data Science\
+**Today's topic**: Reinforcement Learning(Part-2)
+
+**Thoughts:** Continued Reinforcement learning and learnt its 2nd algo\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Thompson Sampling model
+
+**Link to work:** [Day-10_work](https://drive.google.com/file/d/15QPW1eLPYuYqvOhdy5jhDzKGyeswjlY2/view?usp=sharing)
+<<========================================================================>>
