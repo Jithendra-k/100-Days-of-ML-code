@@ -1,7 +1,8 @@
 # 100 Days Of ML Code 
 
 ## Work Progress: [Daily-progress](https://drive.google.com/file/d/1lUuqhwOnAriKCuqPFS_rUTEtRgMDQyQe/view?usp=sharing)
-
+## ML Shortnotes: [Notes](https://drive.google.com/file/d/1mS2g9OnlwEWZL74k8RE5_pxnhYC-DD-2/view?usp=sharing)
+<<========================================================================>>
 ### Day 1: December 20, 2020 
 
 **Week schedule**: Udemy Course Machine Learning A-Z™: Hands-On Python & R In Data Science\
@@ -89,7 +90,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Hierarchical Clustering
 
 
-**Link to work:** [Day-7_work](https://drive.google.com/file/d/1WmMTalKhDSG2Ri98qMvnjfyoy6OmpkJL/view?usp=sharing)
+**Link to work:** [Day-7_work](https://drive.google.com/file/d/1YjMuc4ta_UXCxn1d-UBEt083TqwtPuNJ/view?usp=sharing)
 <<========================================================================>>
 ### Day 8: December 27, 2020 
 
@@ -100,7 +101,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Apriori\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Eclat
 
-**Link to work:** [Day-8_work](https://drive.google.com/file/d/1-UoAZa9exwDuOhozlj8NiE8vcQzbS3RM/view?usp=sharing)
+**Link to work:** [Day-8_work](https://drive.google.com/file/d/1m6_2CbU_uHmDERfHufSsRXkJWmV9QW4S/view?usp=sharing)
 <<========================================================================>>
 ### Day 9: December 28, 2020 
 
@@ -110,7 +111,7 @@
 **Thoughts:** I have learnt about Reinforcement learning and its applications and also its algo's\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Upper Confidence Bound(UCB)
 
-**Link to work:** [Day-9_work](https://drive.google.com/file/d/1NtoKAf3VaksF1bEA_CBRHXUwH5Rg1uqe/view?usp=sharing)
+**Link to work:** [Day-9_work](https://drive.google.com/file/d/1P1y-zbjQvyK7nYQMHixf7R2I-B-lWg5s/view?usp=sharing)
 <<========================================================================>>
 ### Day 10: December 29, 2020 
 
@@ -120,7 +121,7 @@
 **Thoughts:** Continued Reinforcement learning and learnt its 2nd algo\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Thompson Sampling model
 
-**Link to work:** [Day-10_work](https://drive.google.com/file/d/15QPW1eLPYuYqvOhdy5jhDzKGyeswjlY2/view?usp=sharing)
+**Link to work:** [Day-10_work](https://drive.google.com/file/d/15muB9RN9VJXEiNpeRXSmoadSwUm--u1e/view?usp=sharing)
 <<========================================================================>>
 ### Day 11: December 30, 2020 
 
@@ -131,7 +132,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Bag-of-words(Model)
 
 
-**Link to work:** [Day-11_work](https://drive.google.com/file/d/1vCHG2ilLWT5JQUM3YqSJOE50cGblDSSq/view?usp=sharing)
+**Link to work:** [Day-11_work](https://drive.google.com/file/d/1ZwEkxgxlgMNrQf4ZByoteCFVk4ubnyso/view?usp=sharing)
 <<========================================================================>>
 ### Day 12: December 31, 2020 
 
@@ -143,7 +144,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Artificial Neural Networks
 
 
-**Link to work:** [Day-12_work](https://drive.google.com/file/d/1WmMTalKhDSG2Ri98qMvnjfyoy6OmpkJL/view?usp=sharing)
+**Link to work:** [Day-12_work](https://drive.google.com/file/d/1C89sNP1m2re00gMOKd7pRLUAnfXuhT5V/view?usp=sharing)
 <<========================================================================>>
 ### Day 13: January 1, 2021 
 
@@ -154,7 +155,7 @@
 ->Learnt much about CNN , its layers , convolution layer,ReLU layer,pooling layer,flattening layer,and Full connection\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Convolutional Neural Networks
 
-**Link to work:** [Day-13_work](https://drive.google.com/file/d/1-UoAZa9exwDuOhozlj8NiE8vcQzbS3RM/view?usp=sharing)
+**Link to work:** [Day-13_work](https://drive.google.com/file/d/159iA-Il7yIRe_ZfaNk7HWQWfKWTlwmuV/view?usp=sharing)
 <<========================================================================>>
 ### Day 14: January 2, 2021 
 
@@ -165,7 +166,7 @@
 ->Learnt about PCA,LDA,Kernel PCA\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Feature Scaling and Feature Extraction
 
-**Link to work:** [Day-14_work](https://drive.google.com/file/d/1NtoKAf3VaksF1bEA_CBRHXUwH5Rg1uqe/view?usp=sharing)
+**Link to work:** [Day-14_work](https://drive.google.com/file/d/1U5iNwLcMnrxPA9mXeJ_2ztDyp6xQR-fV/view?usp=sharing)
 <<========================================================================>>
 ### Day 15: January 3, 2021 
 
@@ -175,7 +176,7 @@
 **Thoughts:** Got to know some Model selection techniques like, k-fold cross validation and Grid Selection\
 ->Learnt about the leading Model of Machine learning XG-BOOST
 
-**Link to work:** [Day-15_work](https://drive.google.com/file/d/15QPW1eLPYuYqvOhdy5jhDzKGyeswjlY2/view?usp=sharing)
+**Link to work:** [Day-15_work](https://drive.google.com/file/d/1-aW71wpJyJarH8vFqJKG2X7FqZLPq8O9/view?usp=sharing)
 <<========================================================================>>
 ### Certificate:
 <p align="center">
