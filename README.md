@@ -15,7 +15,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Splitting dataset into training set and test set\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Feature Scaling
 
-**Link to work:** [Day-1_work](https://drive.google.com/file/d/1pK5zqN5OidcRhcnhtztp9MilKZUZUMdT/view?usp=sharing)
+**Link to work:** [Day-1_work]()
 <<========================================================================>>
 ### Day 2: December 21, 2020 
 
@@ -27,7 +27,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Simple linear Regression\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Multiple Linear Regression
 
-**Link to work:** [Day-2_work](https://drive.google.com/file/d/1Szm9vvTfxbjd78MCg1lqcCByAhSIKEAX/view?usp=sharing)
+**Link to work:** [Day-2_work]()
 <<========================================================================>>
 ### Day 3: December 22, 2020 
 
@@ -38,7 +38,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Polynomial Regression\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Support Vector Regression(SVR)
 
-**Link to work:** [Day-3_work](https://drive.google.com/file/d/1Bcw5t3oy2yonqaPUJjedf4yfb-UiXCno/view?usp=sharing)
+**Link to work:** [Day-3_work]()
 <<========================================================================>>
 ### Day 4: December 23, 2020 
 
@@ -51,7 +51,7 @@
 ->Evaluated Different Regression model's performance and get to know Perfect Model Selection\
 ->And also created a template code which can used for all Regression models.
 
-**Link to work:** [Day-4_work](https://drive.google.com/file/d/1jNvtwOOuNAtyGYfV6FfTg5wZFCb_wBvN/view?usp=sharing)
+**Link to work:** [Day-4_work]()
 <<========================================================================>>
 ### Day 5: December 24, 2020 
 
@@ -64,7 +64,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Support Vector Machine-(SVM)\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Kernal SVM
 
-**Link to work:** [Day-5_work](https://drive.google.com/file/d/1RpXkAS8dDBYPltin93rFB3rEkaalBpom/view?usp=sharing)
+**Link to work:** [Day-5_work]()
 <<========================================================================>>
 ### Day 6: December 25, 2020 
 
@@ -77,7 +77,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Random Forest classification
 
 
-**Link to work:** [Day-6_work](https://drive.google.com/file/d/1vCHG2ilLWT5JQUM3YqSJOE50cGblDSSq/view?usp=sharing)
+**Link to work:** [Day-6_work]()
 <<========================================================================>>
 ### Day 7: December 26, 2020 
 
