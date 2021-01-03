@@ -177,5 +177,8 @@
 
 **Link to work:** [Day-15_work](https://drive.google.com/file/d/15QPW1eLPYuYqvOhdy5jhDzKGyeswjlY2/view?usp=sharing)
 <<========================================================================>>
-![Machine-Learning-Course-Certificate(Day_1-15)](../master/Course-1(Day 1-15)/certificate.jpg)
+### Certificate:
+<p align="center">
+  <img src="../master/Course-1(Day 1-15)/certificate.PNG" width="500" title="hover text">
+</p>
 <<========================================================================>>
