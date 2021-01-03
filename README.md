@@ -122,3 +122,60 @@
 
 **Link to work:** [Day-10_work](https://drive.google.com/file/d/15QPW1eLPYuYqvOhdy5jhDzKGyeswjlY2/view?usp=sharing)
 <<========================================================================>>
+### Day 11: December 30, 2020 
+
+**Week schedule**: Udemy Course Machine Learning A-Z™: Hands-On Python & R In Data Science\
+**Today's topic**: Natural Language Processing(NLP) 
+
+**Thoughts:** I have Learnt about Natural Language Processing(NLP), and implemented the BOW model, got some accurate results\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Bag-of-words(Model)
+
+
+**Link to work:** [Day-11_work](https://drive.google.com/file/d/1vCHG2ilLWT5JQUM3YqSJOE50cGblDSSq/view?usp=sharing)
+<<========================================================================>>
+### Day 12: December 31, 2020 
+
+**Week schedule**: Udemy Course Machine Learning A-Z™: Hands-On Python & R In Data Science\
+**Today's topic**: Deep Learning(part-1)
+
+**Thoughts:** I have Learnt about Deep Learning.Its types ANN and CNN.\
+->Learnt some new terms of ANN like,Activation functions, Gradient descent, Stochastic Gradient descent\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Artificial Neural Networks
+
+
+**Link to work:** [Day-12_work](https://drive.google.com/file/d/1WmMTalKhDSG2Ri98qMvnjfyoy6OmpkJL/view?usp=sharing)
+<<========================================================================>>
+### Day 13: January 1, 2021 
+
+**Week schedule**: Udemy Course Machine Learning A-Z™: Hands-On Python & R In Data Science\
+**Today's topic**: Deep Learning(part-2)
+
+**Thoughts:** Continued Learning Deep learning concepts,\
+->Learnt much about CNN , its layers , convolution layer,ReLU layer,pooling layer,flattening layer,and Full connection\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Convolutional Neural Networks
+
+**Link to work:** [Day-13_work](https://drive.google.com/file/d/1-UoAZa9exwDuOhozlj8NiE8vcQzbS3RM/view?usp=sharing)
+<<========================================================================>>
+### Day 14: January 2, 2021 
+
+**Week schedule**: Udemy Course Machine Learning A-Z™: Hands-On Python & R In Data Science\
+**Today's topic**: Dimensionality Reduction
+
+**Thoughts:** I have learnt about Dimensionality Reduction, its uses and types\
+->Learnt about PCA,LDA,Kernel PCA\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;->Feature Scaling and Feature Extraction
+
+**Link to work:** [Day-14_work](https://drive.google.com/file/d/1NtoKAf3VaksF1bEA_CBRHXUwH5Rg1uqe/view?usp=sharing)
+<<========================================================================>>
+### Day 15: January 3, 2021 
+
+**Week schedule**: Udemy Course Machine Learning A-Z™: Hands-On Python & R In Data Science\
+**Today's topic**: Model Selection & Boosting
+
+**Thoughts:** Got to know some Model selection techniques like, k-fold cross validation and Grid Selection\
+->Learnt about the leading Model of Machine learning XG-BOOST
+
+**Link to work:** [Day-15_work](https://drive.google.com/file/d/15QPW1eLPYuYqvOhdy5jhDzKGyeswjlY2/view?usp=sharing)
+<<========================================================================>>
+![Machine-Learning-Course-Certificate(Day_1-15)](../master/Course-1(Day 1-15)/certificate.jpg)
+<<========================================================================>>
