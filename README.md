@@ -1,6 +1,6 @@
 # 100 Days Of ML Code 
 
-## Work Progress: [Daily-progress](https://docs.google.com/spreadsheets/d/1CDYA5ZtBTd30vHSAyl0D5igwBGrR5L9JgS-dLPdkIXA/edit?usp=sharing)
+## Work Progress: [Daily-progress](https://drive.google.com/file/d/1lUuqhwOnAriKCuqPFS_rUTEtRgMDQyQe/view?usp=sharing)
 
 ### Day 1: December 20, 2020 
 
